@@ -1,11 +1,23 @@
-// service-worker.js — gerado pelo Mini SK em 14/10/2026, 12:42:53
+// service-worker.js — gerado pelo Mini SK em 14/10/2026, 12:44:25
 // Não precisa mexer: ele guarda sozinho o que o app usa.
-const PREFIXO = 'sk-mini-sk-14-10-a-';
-const CACHE = PREFIXO + 'mv8a3yy0';
+const PREFIXO = 'sk-minisk1410a-';
+const CACHE = PREFIXO + 'mv8a5y48';
 // Lista feita automaticamente (para funcionar sem internet logo após instalar)
 const GUARDAR = [
   "./",
+  "./android/app/build.gradle",
+  "./android/app/src/main/AndroidManifest.xml",
+  "./android/app/src/main/assets/__ponte.js",
+  "./android/app/src/main/java/app/minisk/shell/MainActivity.java",
+  "./android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+  "./android/app/src/main/res/xml/rede.xml",
+  "./android/build.gradle",
+  "./android/gradle.properties",
+  "./android/settings.gradle",
+  "./apk.config.json",
   "./css/app.css",
+  "./electron/main.cjs",
+  "./electron/preload.cjs",
   "./favicon.ico",
   "./hub.html",
   "./hub.webmanifest",
@@ -66,6 +78,7 @@ const GUARDAR = [
   "./js/lib/selar.js",
   "./LEIA-ME.md",
   "./manifest.json",
+  "./package.json",
   "./PLANO.md",
   "./sw.js"
 ];
