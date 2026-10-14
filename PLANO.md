@@ -1,19 +1,19 @@
 # 📋 Plano do projeto: Mini-SK-14-10-a
 
-_Gerado em 14/10/2026, 12:44:25 — sem IA, lendo os arquivos._
+_Gerado em 14/10/2026, 13:19:45 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
-| Arquivos | 71 |
-| Linhas | 10.945 |
-| Telas/páginas | 2 |
+| Arquivos | 69 |
+| Linhas | 10.758 |
+| Telas/páginas | 1 |
 | Rotas do backend | 0 |
 | Chamadas do app | 0 |
 | Tabelas do banco | 0 |
 | Variáveis de ambiente | 2 |
 
-**Linguagens:** JavaScript (41), Imagem (15), JSON (3), YAML (2), Outros (2), HTML (2), Imagem SVG (2), Markdown (2), CSS (1), Ícone (1)
+**Linguagens:** JavaScript (41), Imagem (15), JSON (3), YAML (2), Imagem SVG (2), Markdown (2), Outros (1), CSS (1), Ícone (1), HTML (1)
 
 ## 💡 O que fazer (em ordem)
 1. 🧹 Tirar a Replit de 13 arquivo(s) (🏗️ Preparar → Fazer tudo)
@@ -32,7 +32,6 @@ _Gerado em 14/10/2026, 12:44:25 — sem IA, lendo os arquivos._
 ## 📱 Telas e páginas
 | Endereço | Arquivo |
 |---|---|
-| `hub.html` | hub.html |
 | `index.html` | index.html |
 
 ## 🖥️ Rotas do backend
@@ -191,8 +190,6 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ├─ .gitignore
 ├─ apk.config.json
 ├─ favicon.ico
-├─ hub.html
-├─ hub.webmanifest
 ├─ index.html
 ├─ LEIA-ME.md
 ├─ manifest.json

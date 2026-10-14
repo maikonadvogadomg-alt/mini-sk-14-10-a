@@ -1,8 +1,6 @@
 name: Desktop (.exe)
 # Feita pelo 🏗️ Preparar do Mini SK. O .exe sai em Actions → "Desktop (.exe)" → Artifacts.
 on:
-  push:
-    branches: [main, master]
   workflow_dispatch:
 
 jobs:
